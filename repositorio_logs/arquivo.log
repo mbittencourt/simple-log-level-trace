@@ -1,0 +1,11 @@
+2020-08-24 14:06:08.894  INFO 3768 --- [main] b.c.m.logs.LogsApplication               : Starting LogsApplication on Avell-Messi with PID 3768 (F:\Desenvolvimento\Projetos\GitHub\simple-log-level-trace\target\classes started by messi in F:\Desenvolvimento\Projetos\GitHub\simple-log-level-trace)
+2020-08-24 14:06:08.897 DEBUG 3768 --- [main] b.c.m.logs.LogsApplication               : Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-24 14:06:08.898  INFO 3768 --- [main] b.c.m.logs.LogsApplication               : No active profile set, falling back to default profiles: default
+2020-08-24 14:06:09.920  INFO 3768 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-08-24 14:06:09.942  INFO 3768 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-24 14:06:09.943  INFO 3768 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-24 14:06:10.059  INFO 3768 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-08-24 14:06:10.059  INFO 3768 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1101 ms
+2020-08-24 14:06:10.300  INFO 3768 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-24 14:06:10.520  INFO 3768 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-24 14:06:10.538  INFO 3768 --- [main] b.c.m.logs.LogsApplication               : Started LogsApplication in 2.174 seconds (JVM running for 5.299)
